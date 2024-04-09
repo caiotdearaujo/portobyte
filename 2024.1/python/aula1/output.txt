@@ -1,0 +1,14 @@
+Hello, world
+
+Linha 1
+Linha 2
+Linha 1-Linha 2-
+
+Olá mundo
+Olá-mundo
+
+Abenilzo
+
+O cachorro tem 11 anos
+
+20 0 100 1 0 10000000000
